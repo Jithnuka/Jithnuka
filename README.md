@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Jithnuka Weerasingha</h1>
 <h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jithnu&label=Profile%20views&color=0e75b6&style=flat" alt="jithnu" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jithnuka&label=Profile%20views&color=0e75b6&style=flat" alt="jithnuka" /> </p>
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jithunkaweerasingha@gmail.com**
 
-- ⚡ Fun fact **call me as JITHNU**
+- ⚡ Fun fact **call me as Jithnuka Weerasinghe**
  <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -106,9 +106,9 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JITHNU&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Jithnuka&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JITHNU&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jithnuka&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
