@@ -142,12 +142,12 @@ I am an **Applied AI Software Engineer** and **Full Stack Developer** specializi
     <tr>
       <td align="center" valign="middle">
         <a href="https://github.com/Jithnuka">
-          <img src="https://github-readme-stats.vercel.app/api?username=Jithnuka&theme=dark&show_icons=true&count_private=true&hide_border=false" alt="Jithnuka's GitHub Stats" width="400" />
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Jithnuka&theme=dark&show_icons=true&count_private=true&hide_border=false" alt="Jithnuka's GitHub Stats" width="400" />
         </a>
       </td>
       <td align="center" valign="middle">
         <a href="https://github.com/Jithnuka">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jithnuka&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" width="350" />
+          <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jithnuka&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" width="350" />
         </a>
       </td>
     </tr>
