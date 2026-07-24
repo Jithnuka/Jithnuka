@@ -1,122 +1,172 @@
-
-<picture> <p align="center"> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p></picture>
-<h1 align="center">Hi 👋, I'm Jithnuka Weerasingha</h1>
-<h3 align="center">A passionate IT Student | Exploring the Boundless World of Technology</h3>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jithnuka&label=Profile%20views&color=0e75b6&style=flat" alt="jithnuka" /> </p>
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 400px></picture>
-
-- 🌱 I’m currently learning **OOP with Java**
-
-- :student: I'm an Undergraduate at University of Kelaniya and I'm Undergraduate at University of Colombo School of Computing (External).
-
-- 💬 Ask me about **Web development | OOC**
-
-- 📫 How to reach me **jithunkaweerasingha@gmail.com**
-
-- ⚡ Fun fact **call me as Jithnuka Weerasinghe**
- <br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jithnuka-weerasinghe-b9408b25a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="b9408b25a" height="30" width="40" /></a>
-<a href="https://fb.com/jithnukaweerasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jithnukaweerasinghe" height="30" width="40" /></a>
-<a href="https://instagram.com/__.jithnuka.__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.jithnuka.__" height="30" width="40" /></a><a href="https://jithnuka-weerasinghe70.vercel.app/" target="blank">
-    <img align="center" src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-portfolio-web-development-flaticons-lineal-color-flat-icons.png" alt="Portfolio" height="30" width="40" />
-  </a>
-</p>
-<br>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<!-- Languages -->
-<h4>🖥️ Programming Languages</h4>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-</p>
-
-<!-- Frameworks -->
-<h4>⚙️ Frameworks & Libraries</h4>
-<p align="left"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a>
-</p>
-
-<!-- Tools -->
-<h4>🛠️ Tools & Platforms</h4>
-<p align="left"> 
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
-  </a>
-  <a href="https://www.microsoft.com/en/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg" alt="excel" width="40" height="40"/> 
-  </a>
-  <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" alt="airflow" width="40" height="40"/> 
-  </a>
-</p>
-<br>
-
-
-<br>
-
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Statistics</h3>
-
-<!--- stats  (start) -->
+<h1 align="center">Hi there, I'm Jithnuka Weerasinghe 👋</h1>
 <p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Jithnuka&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jithnuka&theme=dark&hide_border=false" /> 
-</td>
+  <strong>Applied AI Software Engineer | Full Stack Developer</strong>
+</p>
 
-<td width="50%" align="center">
+<p align="center">
+  <a href="https://jithnuka-weerasinghe.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white&color=007ACC" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/jithnuka-weerasinghe" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="mailto:jithnukaweerasingha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white&color=D14836" alt="Email" />
+  </a>
+</p>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Jithnuka&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jithnuka&label=Profile%20views&color=0e75b6&style=flat-square" alt="jithnuka views" />
+</p>
+
+---
+
+### 🚀 About Me
+
+I am an **Applied AI Software Engineer** and **Full Stack Developer** specializing in building intelligent systems, machine learning-powered applications, and scalable enterprise platforms. I combine deep learning, software architecture, and creative problem-solving to design software that delivers measurable business impact.
+
+* 🎓 **Education:** 
+  * BSc in Statistics & Computer Science, University of Kelaniya (CGPA: 3.3/4.0)
+  * Diploma in Information Technology, University of Colombo School of Computing (UCSC)
+* 💼 **Current Focus:** Developing production-grade AI agents, optimizing backend microservices, and deploying full-stack SaaS solutions.
+* 📍 **Location:** Kadawatha, Sri Lanka (Open to Hybrid / Remote / Onsite / Relocation)
+
+---
+
+### 💼 Professional Experience
+
+* **Software Engineering Intern** @ **MAS Holdings** *(Nov 2025 – Aug 2026)*
+  * Developed enterprise manufacturing platforms supporting 100+ users, improving workflow efficiency.
+  * Optimized backend services and query performance, reducing API response latency by **90% (from 11s to 1s)**.
+  * Built AI-powered analytics with LLM-based natural language querying, automated reporting, and secure SQL generation.
+  * Implemented secure deployments using Cloudflare CDN caching, DNS management, and prompt injection protection.
+* **Independent Software Engineer** *(May 2026 – Present)*
+  * Architected and delivered custom full-stack solutions for clients using FastAPI, React/Next.js, and PostgreSQL.
+  * Handled end-to-end software lifecycles including requirements gathering, database schema design, and cloud deployments (AWS, Railway).
+
+---
+
+### 🛠️ Technical Toolbox
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🧠 AI, ML & Data Science</strong><br/>
+      <img src="https://img.shields.io/badge/Large_Language_Models-000000?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3A?style=flat-square&logo=chainlink&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangGraph-2E2E2E?style=flat-square" />
+      <img src="https://img.shields.io/badge/RAG_Systems-FF6F61?style=flat-square" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      <br/><br/>
+      <strong>⚙️ Backend Systems</strong><br/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>🖥️ Programming Languages</strong><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+      <br/><br/>
+      <strong>🎨 Frontend Development</strong><br/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+      <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <strong>🗄️ Databases</strong><br/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+      <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+      <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+    </td>
+    <td valign="top" width="50%">
+      <strong>🛠️ DevOps & Tools</strong><br/>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <img src="https://img.shields.io/badge/Power_Platform-742774?style=flat-square&logo=microsoft&logoColor=white" />
+    </td>
+  </tr>
 </table>
-<!--- stats (end) -->
 
+---
+
+### 🚀 Featured Projects
+
+#### 🤖 [AstraDocs AI — Multi Agent RAG System](https://github.com/Jithnuka/pdf-ai-agent.git)
+* **Description:** An intelligent document Q&A assistant managing large PDF collections. Features conversational memory, web search fallback, and multi-agent routing.
+* **Architecture:** Built LangGraph-driven routing for document reasoning, dynamic API calls, and web search fallback.
+* **Tech Stack:** `FastAPI`, `React`, `LangChain`, `LangGraph`, `RAG`, `Generative AI`
+
+#### 🏭 [ProDeX — Scalable PTP & PLM Manufacturing System](https://github.com/Jithnuka)
+* **Description:** Enterprise manufacturing tracker enabling complex multi-stage production workflows with dynamic database schema processing.
+* **Key Achievements:** Implemented Role-Based Access Control (RBAC) with sub-second analytics generation over massive datasets. Integrated automatic AI reporting, visualization, and PDF generation.
+* **Tech Stack:** `FastAPI`, `Python`, `SQLAlchemy`, `Oracle SQL`, `Scikit-Learn`, `Playwright`
+
+#### 🚗 [HighwayLink — AI Integrated Carpooling Platform](https://github.com/Jithnuka/highwaylink-app.git)
+* **Description:** Full-stack ride-sharing platform tailored for highway travel, complete with JWT security, real-time WebSockets, and AI routing.
+* **Key Achievements:** Designed and integrated AI route planning with real-time weather alerts and traffic estimations.
+* **Tech Stack:** `React`, `Spring Boot`, `MongoDB`, `Docker`, `WebSockets`, `JWT`, `OpenStreetMap`
+
+#### 🎙️ [EpicTalk Podcast Website](https://github.com/Jithnuka/Portfolio-Site.git)
+* **Description:** Fully responsive and high-performance podcast streaming platform with custom content management dashboard for managing episodes, guests, and analytics.
+* **Tech Stack:** `Laravel`, `PHP`, `JavaScript`, `Bootstrap`, `MySQL`
+
+#### 📦 [STORIOX — Desktop Inventory & Sales Management System](https://github.com/Jithnuka/InventoryManagementSystem.git)
+* **Description:** Premium enterprise desktop utility supporting inventory management, supplier pipelines, automated stock triggers, and detailed sales visualization reporting.
+* **Tech Stack:** `C#`, `Windows Forms`, `.NET`, `Microsoft SQL Server`, `ADO.NET`
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <table align="center" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://github.com/Jithnuka">
+          <img src="https://github-readme-stats.vercel.app/api?username=Jithnuka&theme=dark&show_icons=true&count_private=true&hide_border=false" alt="Jithnuka's GitHub Stats" width="400" />
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <a href="https://github.com/Jithnuka">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jithnuka&theme=dark&hide_border=false&layout=compact&langs_count=8" alt="Top Languages" width="350" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="middle" colspan="2">
+        <br/>
+        <a href="https://github.com/Jithnuka">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jithnuka&theme=dark&hide_border=false" alt="GitHub Streak" width="760" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+* 💼 **LinkedIn:** [in/jithnuka-weerasinghe](https://linkedin.com/in/jithnuka-weerasinghe)
+* 📸 **Instagram:** [@\_\_.jithnuka.\_\_](https://instagram.com/__.jithnuka.__)
+* 📧 **Email:** [jithnukaweerasingha@gmail.com](mailto:jithnukaweerasingha@gmail.com)
+* 🌐 **Portfolio:** [jithnuka-weerasinghe.vercel.app](https://jithnuka-weerasinghe.vercel.app/)
