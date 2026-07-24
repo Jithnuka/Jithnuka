@@ -1,7 +1,9 @@
-<h1 align="center">Hi there, I'm Jithnuka Weerasinghe 👋</h1>
+<!-- Typing Animation Banner -->
 <p align="center">
-  <strong>Applied AI Software Engineer | Full Stack Developer</strong>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=650&lines=Applied+AI+Software+Engineer;Full+Stack+Developer;LLM+%7C+RAG+%7C+AI+Agent+Builder;Backend+%7C+Microservices+%7C+Cloud;Building+software+that+delivers+impact+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
+
+<h1 align="center">Hi there, I'm Jithnuka Weerasinghe 👋</h1>
 
 <p align="center">
   <a href="https://jithnuka-weerasinghe.vercel.app/" target="_blank">
@@ -23,13 +25,21 @@
 
 ### 🚀 About Me
 
-I am an **Applied AI Software Engineer** and **Full Stack Developer** specializing in building intelligent systems, machine learning powered applications, and scalable enterprise platforms. I combine deep learning, software architecture, and creative problem solving to design software that delivers measurable business impact.
+I am an **Applied AI Software Engineer** and **Full Stack Developer** specializing in building intelligent systems, machine learning-powered applications, and scalable enterprise platforms. I combine deep learning, software architecture, and creative problem-solving to design software that delivers measurable business impact.
 
-* 🎓 **Education:** 
+* 🎓 **Education:**
   * BSc in Statistics & Computer Science, University of Kelaniya (CGPA: 3.3/4.0)
   * Diploma in Information Technology, University of Colombo School of Computing (UCSC)
-* 💼 **Current Focus:** Developing production grade AI agents, optimizing backend microservices, and deploying full stack SaaS solutions.
+* 💼 **Current Focus:** Developing production-grade AI agents, optimizing backend microservices, and deploying full-stack SaaS solutions.
 * 📍 **Location:** Kadawatha, Sri Lanka (Open to Hybrid / Remote / Onsite / Relocation)
+
+---
+
+### 🔭 Currently Working On
+
+* 🤖 **Production AI Agents** — Building multi agent orchestration systems using LangGraph & RAG pipelines for enterprise clients.
+* 🌐 **Full-Stack SaaS** — Architecting scalable web platforms with Next.js, FastAPI, PostgreSQL, and cloud native deployments.
+* 📊 **Applied ML Research** — Exploring time series forecasting and graph neural networks (GNNs) for real world applications.
 
 ---
 
@@ -111,22 +121,22 @@ I am an **Applied AI Software Engineer** and **Full Stack Developer** specializi
 ### 🚀 Featured Projects
 
 #### 🤖 [AstraDocs AI — Multi Agent RAG System](https://github.com/Jithnuka/pdf-ai-agent.git)
-* **Description:** An intelligent document Q&A assistant managing large PDF collections. Features conversational memory, web search fallback, and multi agent routing.
+* **Description:** An intelligent document Q&A assistant managing large PDF collections. Features conversational memory, web search fallback, and multi-agent routing.
 * **Architecture:** Built LangGraph-driven routing for document reasoning, dynamic API calls, and web search fallback.
 * **Tech Stack:** `FastAPI`, `React`, `LangChain`, `LangGraph`, `RAG`, `Generative AI`
 
 #### 🏭 [ProDeX — Scalable PTP & PLM Manufacturing System](https://github.com/Jithnuka)
-* **Description:** Enterprise manufacturing tracker enabling complex multi stage production workflows with dynamic database schema processing.
-* **Key Achievements:** Implemented Role Based Access Control (RBAC) with sub-second analytics generation over massive datasets. Integrated automatic AI reporting, visualization, and PDF generation.
+* **Description:** Enterprise manufacturing tracker enabling complex multi-stage production workflows with dynamic database schema processing.
+* **Key Achievements:** Implemented RBAC with sub-second analytics generation over massive datasets. Integrated automatic AI reporting, visualization, and PDF generation.
 * **Tech Stack:** `FastAPI`, `Python`, `SQLAlchemy`, `Oracle SQL`, `Scikit-Learn`, `Playwright`
 
 #### 🚗 [HighwayLink — AI Integrated Carpooling Platform](https://github.com/Jithnuka/highwaylink-app.git)
-* **Description:** Full stack ride sharing platform tailored for highway travel, complete with JWT security, real time WebSockets, and AI routing.
-* **Key Achievements:** Designed and integrated AI route planning with real time weather alerts and traffic estimations.
+* **Description:** Full-stack ride-sharing platform tailored for highway travel, complete with JWT security, real-time WebSockets, and AI routing.
+* **Key Achievements:** Designed and integrated AI route planning with real-time weather alerts and traffic estimations.
 * **Tech Stack:** `React`, `Spring Boot`, `MongoDB`, `Docker`, `WebSockets`, `JWT`, `OpenStreetMap`
 
-#### 🎙️ [EpicTalk Podcast Website](https://github.com/Jithnuka/Portfolio-Site.git)
-* **Description:** Fully responsive and high performance podcast streaming platform with custom content management dashboard for managing episodes, guests, and analytics.
+#### 🎙️ [EpicTalk Podcast Website](https://epictalk.kesug.com)
+* **Description:** Fully responsive and high-performance podcast streaming platform with custom content management dashboard for managing episodes, guests, and analytics.
 * **Tech Stack:** `Laravel`, `PHP`, `JavaScript`, `Bootstrap`, `MySQL`
 
 #### 📦 [STORIOX — Desktop Inventory & Sales Management System](https://github.com/Jithnuka/InventoryManagementSystem.git)
@@ -135,7 +145,33 @@ I am an **Applied AI Software Engineer** and **Full Stack Developer** specializi
 
 ---
 
+### 🏆 Certifications
+
+| Certificate | Issuer |
+|---|---|
+| Full Stack Development | University of Moratuwa |
+| Python Programming | University of Moratuwa |
+| AI Fundamentals | Microsoft |
+| Getting Started with Storage & Cloud | AWS |
+| Information Security | HashX |
+| Incident Response & Digital Forensics | HashX |
+
+---
+
+### 🌟 Awards & Recognition
+
+* 🏅 **Appreciation Letter** — Python Workshop Tutor, Dept. of Statistics & Computer Science, University of Kelaniya
+* 🎤 **Research Presenter** — ICAPS International Research Symposium, University of Kelaniya
+* 🏆 **Final Round Participant** — Data Science Hackathon, University of Colombo
+
+---
+
 ### 📊 GitHub Statistics
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jithnuka&theme=darkhub&row=1&column=6&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
 
 <p align="center">
   <table align="center" border="0" cellpadding="0" cellspacing="0">
@@ -160,6 +196,11 @@ I am an **Applied AI Software Engineer** and **Full Stack Developer** specializi
       </td>
     </tr>
   </table>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jithnuka&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </p>
 
 ---
