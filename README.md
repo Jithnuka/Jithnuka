@@ -143,21 +143,6 @@ I am an **Applied AI Software Engineer** and **Full Stack Developer** specializi
 * **Description:** Premium enterprise desktop utility supporting inventory management, supplier pipelines, automated stock triggers, and detailed sales visualization reporting.
 * **Tech Stack:** `C#`, `Windows Forms`, `.NET`, `Microsoft SQL Server`, `ADO.NET`
 
----
-
-### 🏆 Certifications
-
-| Certificate | Issuer |
-|---|---|
-| Full Stack Development | University of Moratuwa |
-| Python Programming | University of Moratuwa |
-| AI Fundamentals | Microsoft |
-| Getting Started with Storage & Cloud | AWS |
-| Information Security | HashX |
-| Incident Response & Digital Forensics | HashX |
-
----
-
 ### 🌟 Awards & Recognition
 
 * 🏅 **Appreciation Letter** — Python Workshop Tutor, Dept. of Statistics & Computer Science, University of Kelaniya
@@ -167,11 +152,6 @@ I am an **Applied AI Software Engineer** and **Full Stack Developer** specializi
 ---
 
 ### 📊 GitHub Statistics
-
-<!-- GitHub Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jithnuka&theme=darkhub&row=1&column=6&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
 
 <p align="center">
   <table align="center" border="0" cellpadding="0" cellspacing="0">
