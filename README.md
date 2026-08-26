@@ -25,12 +25,12 @@
 
 ### 🚀 About Me
 
-I am an **Applied AI Software Engineer** and **Full Stack Developer** specializing in building intelligent systems, machine learning-powered applications, and scalable enterprise platforms. I combine deep learning, software architecture, and creative problem-solving to design software that delivers measurable business impact.
+I am an **Applied AI Software Engineer** and **Full Stack Developer** specializing in building intelligent systems, machine learning powered applications, and scalable enterprise platforms. I combine deep learning, software architecture, and creative problem solving to design software that delivers measurable business impact.
 
 * 🎓 **Education:**
   * BSc in Statistics & Computer Science, University of Kelaniya (CGPA: 3.3/4.0)
   * Diploma in Information Technology, University of Colombo School of Computing (UCSC)
-* 💼 **Current Focus:** Developing production-grade AI agents, optimizing backend microservices, and deploying full-stack SaaS solutions.
+* 💼 **Current Focus:** Developing production grade AI agents, optimizing backend microservices, and deploying full stack SaaS solutions.
 * 📍 **Location:** Kadawatha, Sri Lanka (Open to Hybrid / Remote / Onsite / Relocation)
 
 ---
@@ -48,10 +48,10 @@ I am an **Applied AI Software Engineer** and **Full Stack Developer** specializi
 * **Software Engineering Intern** @ **MAS Holdings** *(Nov 2025 – Aug 2026)*
   * Developed enterprise manufacturing platforms supporting 100+ users, improving workflow efficiency.
   * Optimized backend services and query performance, reducing API response latency by **90% (from 11s to 1s)**.
-  * Built AI-powered analytics with LLM-based natural language querying, automated reporting, and secure SQL generation.
+  * Built AI powered analytics with LLM based natural language querying, automated reporting, and secure SQL generation.
   * Implemented secure deployments using Cloudflare CDN caching, DNS management, and prompt injection protection.
 * **Independent Software Engineer** *(May 2026 – Present)*
-  * Architected and delivered custom full-stack solutions for clients using FastAPI, React/Next.js, and PostgreSQL.
+  * Architected and delivered custom full stack solutions for clients using FastAPI, React/Next.js, and PostgreSQL.
   * Handled end-to-end software lifecycles including requirements gathering, database schema design, and cloud deployments (AWS, Railway).
 
 ---
@@ -121,22 +121,22 @@ I am an **Applied AI Software Engineer** and **Full Stack Developer** specializi
 ### 🚀 Featured Projects
 
 #### 🤖 [AstraDocs AI — Multi Agent RAG System](https://github.com/Jithnuka/pdf-ai-agent.git)
-* **Description:** An intelligent document Q&A assistant managing large PDF collections. Features conversational memory, web search fallback, and multi-agent routing.
-* **Architecture:** Built LangGraph-driven routing for document reasoning, dynamic API calls, and web search fallback.
+* **Description:** An intelligent document Q&A assistant managing large PDF collections. Features conversational memory, web search fallback, and multi agent routing.
+* **Architecture:** Built LangGraph driven routing for document reasoning, dynamic API calls, and web search fallback.
 * **Tech Stack:** `FastAPI`, `React`, `LangChain`, `LangGraph`, `RAG`, `Generative AI`
 
 #### 🏭 [ProDeX — Scalable PTP & PLM Manufacturing System](https://github.com/Jithnuka)
-* **Description:** Enterprise manufacturing tracker enabling complex multi-stage production workflows with dynamic database schema processing.
-* **Key Achievements:** Implemented RBAC with sub-second analytics generation over massive datasets. Integrated automatic AI reporting, visualization, and PDF generation.
+* **Description:** Enterprise manufacturing tracker enabling complex multi stage production workflows with dynamic database schema processing.
+* **Key Achievements:** Implemented RBAC with sub second analytics generation over massive datasets. Integrated automatic AI reporting, visualization, and PDF generation.
 * **Tech Stack:** `FastAPI`, `Python`, `SQLAlchemy`, `Oracle SQL`, `Scikit-Learn`, `Playwright`
 
 #### 🚗 [HighwayLink — AI Integrated Carpooling Platform](https://github.com/Jithnuka/highwaylink-app.git)
-* **Description:** Full-stack ride-sharing platform tailored for highway travel, complete with JWT security, real-time WebSockets, and AI routing.
-* **Key Achievements:** Designed and integrated AI route planning with real-time weather alerts and traffic estimations.
+* **Description:** Full stack ride sharing platform tailored for highway travel, complete with JWT security, real time WebSockets, and AI routing.
+* **Key Achievements:** Designed and integrated AI route planning with real time weather alerts and traffic estimations.
 * **Tech Stack:** `React`, `Spring Boot`, `MongoDB`, `Docker`, `WebSockets`, `JWT`, `OpenStreetMap`
 
 #### 🎙️ [EpicTalk Podcast Website](https://epictalk.kesug.com)
-* **Description:** Fully responsive and high-performance podcast streaming platform with custom content management dashboard for managing episodes, guests, and analytics.
+* **Description:** Fully responsive and high performance podcast streaming platform with custom content management dashboard for managing episodes, guests, and analytics.
 * **Tech Stack:** `Laravel`, `PHP`, `JavaScript`, `Bootstrap`, `MySQL`
 
 #### 📦 [STORIOX — Desktop Inventory & Sales Management System](https://github.com/Jithnuka/InventoryManagementSystem.git)
