@@ -70,7 +70,7 @@ I am an **Associate Software Engineer** with a strong interest in **Applied AI, 
 #### **Freelance Software Engineer**
 
 * **Jul 2025 – Dec 2025**
-* Developed and delivered the official website for BigTalk Podcast, featuring a centralized content management system for managing podcast episodes, videos, guests, and other digital content.
+* Developed and delivered the official website for EpicTalk Podcast, featuring a centralized content management system for managing podcast episodes, videos, guests, and other digital content.
 * Managed projects end to end, from requirements gathering and solution design to development, deployment, and maintenance.
 * Worked directly with clients to understand business requirements and deliver practical, user focused software solutions.
 * Working with PHP, Node.js, SQL, React, HTML and Laravel to build scalable  and intelligent software systems.
