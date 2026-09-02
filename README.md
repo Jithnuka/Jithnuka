@@ -1,6 +1,7 @@
 <!-- Typing Animation Banner -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=650&lines=Applied+AI+Software+Engineer;Full+Stack+Developer;LLM+%7C+RAG+%7C+AI+Agent+Builder;Backend+%7C+Microservices+%7C+Cloud;Building+software+that+delivers+impact+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=007ACC&center=true&vCenter=true&width=650&lines=Associate+Software+Engineer;Applied+AI+%7C+Full+Stack+Developer;LLM+%7C+RAG+%7C+AI+Agent+Builder;Backend+%7C+Microservices+%7C+Cloud;Building+software+that+delivers+impact+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi there, I'm Jithnuka Weerasinghe 👋</h1>
@@ -25,34 +26,46 @@
 
 ### 🚀 About Me
 
-I am an **Applied AI Software Engineer** and **Full Stack Developer** specializing in building intelligent systems, machine learning powered applications, and scalable enterprise platforms. I combine deep learning, software architecture, and creative problem solving to design software that delivers measurable business impact.
+I am an **Associate Software Engineer** with a strong interest in **Applied AI, Backend Engineering, and Full Stack Development**. I enjoy building scalable software systems and intelligent applications that solve real-world problems and deliver measurable business value.
 
 * 🎓 **Education:**
+
   * BSc in Statistics & Computer Science, University of Kelaniya (CGPA: 3.3/4.0)
   * Diploma in Information Technology, University of Colombo School of Computing (UCSC)
-* 💼 **Current Focus:** Developing production grade AI agents, optimizing backend microservices, and deploying full stack SaaS solutions.
-* 📍 **Location:** Kadawatha, Sri Lanka (Open to Hybrid / Remote / Onsite / Relocation)
+* 💼 **Current Role:** Associate Software Engineer at **Cloudimite**
+* 🤖 **Focus Areas:** Artificial Intelligence, LLMs, RAG, AI Agents, Backend Systems, Full Stack Development, and Cloud Technologies
+* 📍 **Location:** Sri Lanka | Open to Hybrid / Remote / Onsite / Relocation
 
 ---
 
 ### 🔭 Currently Working On
 
-* 🤖 **Production AI Agents** — Building multi agent orchestration systems using LangGraph & RAG pipelines for enterprise clients.
-* 🌐 **Full-Stack SaaS** — Architecting scalable web platforms with Next.js, FastAPI, PostgreSQL, and cloud native deployments.
-* 📊 **Applied ML Research** — Exploring time series forecasting and graph neural networks (GNNs) for real world applications.
+* 🤖 **AI Engineering** — Building intelligent applications using LLMs, RAG pipelines, AI agents, and workflow automation.
+* ⚙️ **Backend Engineering** — Developing scalable APIs, backend services, database architectures, and microservice-based systems.
+* 🌐 **Full-Stack Development** — Building modern web applications using React, Next.js, FastAPI, Spring Boot, and PostgreSQL.
+* ☁️ **Cloud & Automation** — Working with cloud technologies, containerization, deployment automation, and production-ready software systems.
 
 ---
 
 ### 💼 Professional Experience
 
-* **Software Engineering Intern** @ **MAS Holdings** *(Nov 2025 – Aug 2026)*
-  * Developed enterprise manufacturing platforms supporting 100+ users, improving workflow efficiency.
-  * Optimized backend services and query performance, reducing API response latency by **90% (from 11s to 1s)**.
-  * Built AI powered analytics with LLM based natural language querying, automated reporting, and secure SQL generation.
-  * Implemented secure deployments using Cloudflare CDN caching, DNS management, and prompt injection protection.
-* **Independent Software Engineer** *(May 2026 – Present)*
-  * Architected and delivered custom full stack solutions for clients using FastAPI, React/Next.js, and PostgreSQL.
-  * Handled end-to-end software lifecycles including requirements gathering, database schema design, and cloud deployments (AWS, Railway).
+#### **Associate Software Engineer @ Cloudimite**
+
+* **2026 – Present**
+* Developing production grade software solutions across AI, automation, backend, and full stack development.
+* Developing an internal intelligence layer for Jameendar using MCP (Model Context Protocol).
+* Building UGC pipelines for Jameendar and Vesper to automate data processing and workflow execution &  end-to-end automation using Playwright and backend services.
+* Working with Python, Node.js, SQL, React, and Playwright to build scalable automation and intelligent software systems.
+
+#### **Software Engineering Intern @ MAS Holdings**
+
+* **Nov 2025 – Aug 2026**
+* Developed enterprise manufacturing platforms supporting **100+ users**, improving workflow efficiency.
+* Optimized backend services and database queries, reducing API response latency by **90% (11s → 1s)**.
+* Built AI-powered analytics with LLM-based natural language querying, automated reporting, and secure SQL generation.
+* Developed real-time dashboards and production workflow management features using **Python, FastAPI, React, SQLAlchemy, and Oracle**.
+* Worked with **Cloudflare** for application security, DNS management, caching, and performance optimization.
+* Implemented Playwright-based web automation for workflow execution.
 
 ---
 
@@ -120,28 +133,35 @@ I am an **Applied AI Software Engineer** and **Full Stack Developer** specializi
 
 ### 🚀 Featured Projects
 
-#### 🤖 [AstraDocs AI — Multi Agent RAG System](https://github.com/Jithnuka/pdf-ai-agent.git)
-* **Description:** An intelligent document Q&A assistant managing large PDF collections. Features conversational memory, web search fallback, and multi agent routing.
-* **Architecture:** Built LangGraph driven routing for document reasoning, dynamic API calls, and web search fallback.
+#### 🤖 [AstraDocs AI — Multi-Agent RAG System](https://github.com/Jithnuka/pdf-ai-agent.git)
+
+* **Description:** An intelligent document Q&A assistant for managing large PDF collections with conversational memory, web search fallback, and multi-agent routing.
+* **Architecture:** Built LangGraph-driven routing for document reasoning, dynamic API calls, and web search fallback.
 * **Tech Stack:** `FastAPI`, `React`, `LangChain`, `LangGraph`, `RAG`, `Generative AI`
 
 #### 🏭 [ProDeX — Scalable PTP & PLM Manufacturing System](https://github.com/Jithnuka)
-* **Description:** Enterprise manufacturing tracker enabling complex multi stage production workflows with dynamic database schema processing.
-* **Key Achievements:** Implemented RBAC with sub second analytics generation over massive datasets. Integrated automatic AI reporting, visualization, and PDF generation.
+
+* **Description:** Enterprise manufacturing tracker supporting complex multi-stage production workflows with dynamic database schema processing.
+* **Key Achievements:** Implemented RBAC with sub-second analytics generation over large datasets. Integrated AI-powered reporting, visualization, and PDF generation.
 * **Tech Stack:** `FastAPI`, `Python`, `SQLAlchemy`, `Oracle SQL`, `Scikit-Learn`, `Playwright`
 
 #### 🚗 [HighwayLink — AI Integrated Carpooling Platform](https://github.com/Jithnuka/highwaylink-app.git)
-* **Description:** Full stack ride sharing platform tailored for highway travel, complete with JWT security, real time WebSockets, and AI routing.
-* **Key Achievements:** Designed and integrated AI route planning with real time weather alerts and traffic estimations.
+
+* **Description:** Full-stack ride-sharing platform tailored for highway travel, featuring JWT security, real-time WebSockets, and AI-powered routing.
+* **Key Achievements:** Designed and integrated AI route planning with real-time weather alerts and traffic estimations.
 * **Tech Stack:** `React`, `Spring Boot`, `MongoDB`, `Docker`, `WebSockets`, `JWT`, `OpenStreetMap`
 
 #### 🎙️ [EpicTalk Podcast Website](https://epictalk.kesug.com)
-* **Description:** Fully responsive and high performance podcast streaming platform with custom content management dashboard for managing episodes, guests, and analytics.
+
+* **Description:** Fully responsive podcast streaming platform with a custom content management dashboard for managing episodes, guests, and analytics.
 * **Tech Stack:** `Laravel`, `PHP`, `JavaScript`, `Bootstrap`, `MySQL`
 
 #### 📦 [STORIOX — Desktop Inventory & Sales Management System](https://github.com/Jithnuka/InventoryManagementSystem.git)
-* **Description:** Premium enterprise desktop utility supporting inventory management, supplier pipelines, automated stock triggers, and detailed sales visualization reporting.
+
+* **Description:** Enterprise desktop application supporting inventory management, supplier pipelines, automated stock triggers, and sales visualization.
 * **Tech Stack:** `C#`, `Windows Forms`, `.NET`, `Microsoft SQL Server`, `ADO.NET`
+
+---
 
 ### 🌟 Awards & Recognition
 
@@ -179,6 +199,7 @@ I am an **Applied AI Software Engineer** and **Full Stack Developer** specializi
 </p>
 
 <!-- Activity Graph -->
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jithnuka&theme=react-dark&hide_border=true&area=true" alt="Contribution Activity Graph" />
 </p>
@@ -188,6 +209,7 @@ I am an **Applied AI Software Engineer** and **Full Stack Developer** specializi
 ### 🤝 Let's Connect!
 
 * 💼 **LinkedIn:** [in/jithnuka-weerasinghe](https://linkedin.com/in/jithnuka-weerasinghe)
-* 📸 **Instagram:** [@\_\_.jithnuka.\_\_](https://instagram.com/__.jithnuka.__)
+* 📸 **Instagram:** [@**.jithnuka.**](https://instagram.com/__.jithnuka.__)
 * 📧 **Email:** [jithnukaweerasingha@gmail.com](mailto:jithnukaweerasingha@gmail.com)
 * 🌐 **Portfolio:** [jithnuka-weerasinghe.vercel.app](https://jithnuka-weerasinghe.vercel.app/)
+
