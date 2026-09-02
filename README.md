@@ -26,7 +26,7 @@
 
 ### 🚀 About Me
 
-I am an **Associate Software Engineer** with a strong interest in **Applied AI, Backend Engineering, and Full Stack Development**. I enjoy building scalable software systems and intelligent applications that solve real-world problems and deliver measurable business value.
+I am an **Associate Software Engineer** with a strong interest in **Applied AI, Backend Engineering, and Full Stack Development**. I enjoy building scalable software systems and intelligent applications that solve real world problems and deliver measurable business value.
 
 * 🎓 **Education:**
 
@@ -41,9 +41,9 @@ I am an **Associate Software Engineer** with a strong interest in **Applied AI, 
 ### 🔭 Currently Working On
 
 * 🤖 **AI Engineering** — Building intelligent applications using LLMs, RAG pipelines, AI agents, and workflow automation.
-* ⚙️ **Backend Engineering** — Developing scalable APIs, backend services, database architectures, and microservice-based systems.
+* ⚙️ **Backend Engineering** — Developing scalable APIs, backend services, database architectures, and microservice based systems.
 * 🌐 **Full-Stack Development** — Building modern web applications using React, Next.js, FastAPI, Spring Boot, and PostgreSQL.
-* ☁️ **Cloud & Automation** — Working with cloud technologies, containerization, deployment automation, and production-ready software systems.
+* ☁️ **Cloud & Automation** — Working with cloud technologies, containerization, deployment automation, and production ready software systems.
 
 ---
 
@@ -54,7 +54,7 @@ I am an **Associate Software Engineer** with a strong interest in **Applied AI, 
 * **2026 – Present**
 * Developing production grade software solutions across AI, automation, backend, and full stack development.
 * Developing an internal intelligence layer for Jameendar using MCP (Model Context Protocol).
-* Building UGC pipelines for Jameendar and Vesper to automate data processing and workflow execution &  end-to-end automation using Playwright and backend services.
+* Building UGC pipelines for Jameendar and Vesper to automate data processing and workflow execution &  end to end automation using Playwright and backend services.
 * Working with Python, Node.js, SQL, React, and Playwright to build scalable automation and intelligent software systems.
 
 #### **Software Engineering Intern @ MAS Holdings**
@@ -135,19 +135,19 @@ I am an **Associate Software Engineer** with a strong interest in **Applied AI, 
 
 #### 🤖 [AstraDocs AI — Multi-Agent RAG System](https://github.com/Jithnuka/pdf-ai-agent.git)
 
-* **Description:** An intelligent document Q&A assistant for managing large PDF collections with conversational memory, web search fallback, and multi-agent routing.
+* **Description:** An intelligent document Q&A assistant for managing large PDF collections with conversational memory, web search fallback, and multi agent routing.
 * **Architecture:** Built LangGraph-driven routing for document reasoning, dynamic API calls, and web search fallback.
 * **Tech Stack:** `FastAPI`, `React`, `LangChain`, `LangGraph`, `RAG`, `Generative AI`
 
 #### 🏭 [ProDeX — Scalable PTP & PLM Manufacturing System](https://github.com/Jithnuka)
 
-* **Description:** Enterprise manufacturing tracker supporting complex multi-stage production workflows with dynamic database schema processing.
+* **Description:** Enterprise manufacturing tracker supporting complex multi stage production workflows with dynamic database schema processing.
 * **Key Achievements:** Implemented RBAC with sub-second analytics generation over large datasets. Integrated AI-powered reporting, visualization, and PDF generation.
 * **Tech Stack:** `FastAPI`, `Python`, `SQLAlchemy`, `Oracle SQL`, `Scikit-Learn`, `Playwright`
 
 #### 🚗 [HighwayLink — AI Integrated Carpooling Platform](https://github.com/Jithnuka/highwaylink-app.git)
 
-* **Description:** Full-stack ride-sharing platform tailored for highway travel, featuring JWT security, real-time WebSockets, and AI-powered routing.
+* **Description:** Full stack ride sharing platform tailored for highway travel, featuring JWT security, real time WebSockets, and AI powered routing.
 * **Key Achievements:** Designed and integrated AI route planning with real-time weather alerts and traffic estimations.
 * **Tech Stack:** `React`, `Spring Boot`, `MongoDB`, `Docker`, `WebSockets`, `JWT`, `OpenStreetMap`
 
